@@ -32,9 +32,9 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 Program to implement the SVM For Spam Mail Detection..
 
-Developed by: Gunanithi S
+Developed by: Jayabharathi M
 
-RegisterNumber:  212220220015
+RegisterNumber:  212220220017
 
 ```
 
